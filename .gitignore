@@ -1,0 +1,99 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+.python-version
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+*.env
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pythonenv*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Logs
+*.log
+logs/
+
+# Database files
+*.db
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing
+test_output/
+
+# PyCharm
+.idea/
+
+# Vim
+*.swp
+*.swo
+
+# Virtual environment
+.env/
+.env/*
+!.env.example
+
+# Config files
+config.py
+
+# Cache
+.cache/
+
+# Project specific
+*.csv
+*.xlsx
+*.json
+!requirements.txt
+!setup.py
+
+# Secrets
+secrets.yml
+credentials.json
+*.key
+*.pem
